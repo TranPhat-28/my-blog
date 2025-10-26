@@ -8,7 +8,7 @@ This repository contains the detail information for my personal project **My Blo
 |----------------------------------------------------------------------|
 | [1. Table of Contents](#1-table-of-contents)                         |
 | [2. Github repositories links](#2-github-repositories-links)         |
-| [3. OAuth 2.0 PKCE implementation](#3-oauth-2-0-pkce-implementation) |
+| [3. OAuth 2.0 PKCE implementation](#3-oauth-20-pkce-implementation)  |
 
 ## 2. Github repositories links
 
