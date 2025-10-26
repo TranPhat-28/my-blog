@@ -4,10 +4,11 @@ This repository contains the detail information for my personal project **My Blo
 
 ## 1. Table of Contents
 
-| Section                                      |
-|----------------------------------------------|
-| [1. Table of Contents](#1-table-of-contents) |
-| [2. Github repositories links](#2-github-repositories-links) |
+| Section                                                              |
+|----------------------------------------------------------------------|
+| [1. Table of Contents](#1-table-of-contents)                         |
+| [2. Github repositories links](#2-github-repositories-links)         |
+| [3. OAuth 2.0 PKCE implementation](#3-oauth-2-0-pkce-implementation) |
 
 ## 2. Github repositories links
 
@@ -15,3 +16,7 @@ This repository contains the detail information for my personal project **My Blo
 | ------------------- | ---------------------------------------------- |
 | Frontend SPA client | https://github.com/TranPhat-28/my-blog-client  |
 | Backend API         | https://github.com/TranPhat-28/my-blog-api     |
+
+## 3. OAuth 2.0 PKCE implementation
+
+Below is the sequence diagram that represents the flow of the project's Google login feature implementation
